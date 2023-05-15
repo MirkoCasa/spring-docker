@@ -1,0 +1,4 @@
+com\springdocker\repository\UserRepository.class
+com\springdocker\SpringDockerApplication.class
+com\springdocker\controller\UserController.class
+com\springdocker\model\User.class
